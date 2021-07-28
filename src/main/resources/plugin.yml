@@ -1,0 +1,8 @@
+name: Bridge
+version: ${project.version}
+main: com.ahypixelnon.main.Main
+authors: [ AHypixelNon ]
+description: MeteoCraft Bridge Coded by AHypixelNon
+website: https://www.youtube.com/channel/UCr54Qi3u2iyw_x3OWI-GHWQ
+commands:
+  arena:
